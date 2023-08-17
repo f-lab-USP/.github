@@ -5,7 +5,7 @@ Esta organização do PhysMAR no GitHub tem três objetivos principais:
 
 1. Facilitar a integração de novos membros do grupo. 
 2.  Aumentar a transparência de nossa pesquisa.
-3.  Promover o engajamento de nosso grupo com a comunidade acadêmica e a sociedade.
+3.  Promover o engajamento de nosso grupo com a comunidade científica e a sociedade.
 
 
 ⚠️ Se você chegou agora, por favor, leia nosso Código de Conduta.
