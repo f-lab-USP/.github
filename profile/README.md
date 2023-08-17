@@ -4,7 +4,7 @@ O *Multiscale Ocean and Climate Physics* (PhysMAR) é um grupo de pesquisa na Un
 Esta organização do PhysMAR no GitHub tem três objetivos principais:
 
 1. Facilitar a integração de novos membros do grupo. 
-2.  Aumentar a transparência de nossa pesquisa.
+2.  Aumentar a transparência de nossas pesquisas.
 3.  Promover nosso engajamento com a comunidade científica e a sociedade.
 
 
