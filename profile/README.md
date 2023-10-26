@@ -1,4 +1,4 @@
-# PhysMAR
+# f-lab at USP
 O *Multiscale Ocean and Climate Physics* (PhysMAR) é um grupo de pesquisa na Universidade São Paulo. Coordenado pelo Prof. César Barbedo Rocha, o PhysMAR se dedica a estudar problemas fundamentais da física dos oceanos e seu papel no clima global, utilizando uma combinação de teoria de dinâmica de fluidos geofísicos, observações coletadas em alto mar e modelos computacionais de variada complexidade.
 
 Esta organização do PhysMAR no GitHub tem três objetivos principais:
